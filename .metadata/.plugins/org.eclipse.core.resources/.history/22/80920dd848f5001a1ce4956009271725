@@ -1,0 +1,18 @@
+package java_basics;
+
+/*
+ Java Comments: This is multiple line comments  The Java comments are the statements that are not executed by the compiler and interpreter. The comments can be used to provide information or explanation about the variable, method, class or any statement. It can also be used to hide program code.
+ * */
+
+public class HelloWorld { // Beginning of the class
+
+	public static void main(String[] args) { // this is main method, entry point of Java
+		System.out.println("Hello World!"); // this is called single line comments out
+		System.out.print("My name is Shiplu"); // difference between print and println
+		System.out.println(". I live in Toronto");
+		System.out.println("I moved here in 2019. I was in Malaysia before.");
+		
+
+	}
+
+} // End of the class 
